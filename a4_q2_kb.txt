@@ -1,0 +1,5 @@
+find_good_job <-- high_gpa & good_work_experience & perform_well_in_interview
+high_gpa <-- workhard_for_courses & easy_grading
+workhard_for_courses <-- do_all_assignments & prepare_all_exams
+good_work_experience <-- worked_longtime & relate_to_major
+perform_well_in_interview <-- not_nervous_in_interview & high_gpa
